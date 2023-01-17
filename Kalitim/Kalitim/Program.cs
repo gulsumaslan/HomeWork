@@ -24,8 +24,8 @@ namespace ExtendsProject
             cat.Age = 12;
             cat.Colors = "gri";
 
-            Deneme deneme = new Deneme();
-            deneme.Show(birds);
+            Example example = new Example();
+            example.Show(birds);
 
 
 
