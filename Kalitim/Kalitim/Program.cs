@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kalitim
+namespace ExtendsProject
 {
     class Program
     {
