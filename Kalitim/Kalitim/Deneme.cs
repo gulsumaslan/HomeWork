@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Kalitim
+namespace  ExtendsProject
 {
     class Deneme:Animals
     {
         public void Show(Animals animal)
         {
             animal.Age = 7;
-            Console.WriteLine("hayvanın güncelleme yaşı :"+ animal.Age );
+            Console.WriteLine("update age of the animal :"+ animal.Age );
             
         }
 
