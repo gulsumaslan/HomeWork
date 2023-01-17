@@ -4,7 +4,7 @@ using System.Text;
 
 namespace  ExtendsProject
 {
-    class Deneme:Animals
+    class Example:Animals
     {
         public void Show(Animals animal)
         {
