@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Kalitim
+namespace  ExtendsProject
 {
     class Cat:Animals
     {
